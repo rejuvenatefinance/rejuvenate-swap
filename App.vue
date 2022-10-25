@@ -6,6 +6,6 @@
 
 <script setup lang="ts">
 useHead({
-  title: "NUXT",
+  title: "Rejuvenate",
 });
 </script>
